@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 20" width="21" height="20">
+	<title>github-svg</title>
+	<defs>
+		<image  width="21" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAUCAMAAABVlYYBAAAAAXNSR0IB2cksfwAAAXpQTFRFaGuBKy9OWFt0kpSkAAAAj5GiR0tlSUxnkZOjlJalVVhxMzdVcXOIenyQd3qOOT1alJamjY+gWFtzRUhjioyeio2eOj1aaGqBk5WldnmNgoWXlZemk5WlVFdwQERgf4GUNztYdHeLkpSkamyCiYucYGN6Q0dihYeZ////ZGd+Oz9bjZCgjpChWl11lZemlJalbnGGMDRSgoSWWl11Q0ZikpSkOj5bcnWJlJamZWd+LzNRgYOWjY+gODxZZml/k5WlenyQLTFQf4KUdXiMeXuPeXuPeHuOU1ZvODtYbG6EiIqckJKjREdjkZOjj5GhV1pzgYOWeHqOi42eZ2qAg4WXPUBdLTFPfoCTXmF4T1JsV1pyi42eSk5oVllykJOjjpGhVllykZOjhIeZdnmNTlFrS05piYucZWh/kpSkXmF5gYSWkJKiXF93jI6fbG+EPUFdjI6fRklkPEBcf4GUTE9qUVRuhIaYNTlXc3aKhoiaP0Jeg4WXMTVTgIOVvSTbHwAAAH50Uk5T1f/sGQAx+fghDO//wqav/ghB7fpVVP7WFrGBAhDw/JL+uBfSXeP7dgDc/T866wQOyP+G6vsd/b8G3P+IRf7ZFKf/kLWpqqvx/s5iKvomNe2KrU/YgP3/l+b07lD37yg47iV3svX3X9ob5Ycu6EvN/Ur6/ZP283n+vHH8f/+LxQ2FXwAAAUlJREFUeJxjZGBkAAJGRjAFZTIycoJJxo8CXyCCvEDOB0YWQSD1RvQTP+NLkKAEI+P39wyMLOIsjIyP5Rg/CD4ACsoxA9XcAYoysCowMt7UeC7FeI1BGyj2EqgHKMogBzTkvDI/41kToOBJsI1AUQYLIO+oDZD4xX6AAS7K4Hhb7aqIxHmjm79fIImK633h3eW+x5VxOwOSKIMX4+HP/32OWe//gizK4PeNe6P457+eG5BFxfW5GRkvfrE5JncCSVTQhfH0K+dN4YyM+1/ARaP+rYpcYqjDuDjuhuYOqC8YPMUZGecxKAgZruT+J6i2BSKawrjdeiVQ0uGt5b47MVfMZ4JEtW3nJ00HmaNtz7j1QQ7jTL43jCz/rU0YJ0KcFyXG2MdYxMjYwygdPNf13jVoPJQyrg6bHyTwl1GUT/7bGVjsiCfNAlEKAPhRWxHGOBREAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Twitter-X-White-Logo-PNG" href="#img1" x="0" y="0"/>
+</svg>
